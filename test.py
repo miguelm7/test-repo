@@ -1,2 +1,2 @@
 #editado
-print("Hola, Mundo!")
+print("editado")
